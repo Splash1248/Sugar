@@ -14,12 +14,12 @@
 ```bash
 pip install opencv-python numpy pandas scipy scikit-learn
 
-📈 Example Output
+##📈 Example Output
 ✅ Model trained with enhanced synthetic and real data. Test MSE: 92.7
 🩸 Estimated Glucose: 142.3 mg/dL
 🔺 Elevated glucose - Monitor or consult physician
 
-🧪 Future Improvements
+##🧪 Future Improvements
 Add face detection and tracking
 
 Support multiple video formats
