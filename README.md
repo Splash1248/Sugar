@@ -28,3 +28,12 @@ Integrate with real-world datasets
 
 Improve model performance with neural networks
 
+🙏 Acknowledgements
+This project was developed with the support of the following tools and research contributions:
+
+OpenAI's ChatGPT – Assisted in brainstorming, refining code structure, signal processing techniques, and improving clarity and documentation.
+
+Marjan Jusev et al. – The research work titled "Non-invasive Glucose Estimation via Video-based Photoplethysmography" provided valuable insights into the correlation between PPG signal dynamics and glucose levels. Their findings significantly influenced the signal feature extraction and modeling strategies used in this project.
+
+We gratefully acknowledge their contributions to the advancement of non-invasive health monitoring technologies.
+
